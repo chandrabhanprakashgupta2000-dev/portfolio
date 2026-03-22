@@ -41,6 +41,21 @@ ul li {
     border-radius: 5px;
 }
 
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #38bdf8;
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #0ea5e9;
+}
+
 footer {
     background: #1f2937;
     color: white;
